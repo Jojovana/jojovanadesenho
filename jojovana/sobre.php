@@ -26,9 +26,9 @@
         <!-- Menu de navegação -->
         <nav>
           <ul>
+            <li><a href="jojovana.php #Pastas">Pastas</a></li>
             <li><a href="sobre.php">Sobre</a></li>
-            <li><a href="jojovana.php">Produtos</a></li>
-            <li><a href="#contato">Contato</a></li>
+            <li><a href="jojovana.php #contato">Contato</a></li>
             <li> <button class="bo" onclick="openModal()">Login</button></li>
           </ul>
         </nav>
@@ -66,6 +66,8 @@
   </main>
   </header>
 
+  <div class="linha">s</div>
+
   <main>
 
     <section id="about" class="about">
@@ -77,7 +79,7 @@
         </div>
 
         <div class="row gy-4">
-          <div class="col-lg-7 position-relative about-img" style="background-image: url(assets/img/about.jpg) ;"
+          <div class="col-lg-7 position-relative about-img" style="background-image: url(assets/img/cc.jpg) ;"
             data-aos="fade-up" data-aos-delay="150">
 
           </div>
@@ -91,13 +93,13 @@
               <p>Para alcançar esse objetivo, estabelecemos metas claras e ambiciosas:
               </p>
               <ul>
-                <li><i class="bi bi-check2-all"></i> Qualidade Excepcional: Nosso foco principal é a qualidade dos
+                <li>Qualidade Excepcional: Nosso foco principal é a qualidade dos
                   desenhos que oferecemos.</li>
                 <br>
-                <li><i class="bi bi-check2-all"></i> Variedade de Produtos: Buscamos oferecer uma ampla gama de produtos
+                <li>Variedade de Produtos: Buscamos oferecer uma ampla gama de produtos
                   para atender diferentes gostos e preferências.</li>
                 <br>
-                <li><i class="bi bi-check2-all"></i> Atendimento ao Cliente Excepcional: Valorizamos a satisfação dos
+                <li>Atendimento ao Cliente Excepcional: Valorizamos a satisfação dos
                   nossos clientes e nos esforçamos para proporcionar uma experiência de atendimento excepcional.</li>
               </ul>
               <p>
@@ -109,7 +111,7 @@
               </p>
 
               <div class="position-relative mt-4">
-                <img src="assets/img/about-2.jpg" class="img-fluid" alt="">
+                <img src="assets/img/aa.jpg" class="img-fluid" alt="">
                 <a href="https://www.youtube.com/watch?v=LXb3EKWsInQ" class="glightbox play-btn"></a>
               </div>
             </div>
