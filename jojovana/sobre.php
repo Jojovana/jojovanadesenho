@@ -6,6 +6,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Sobre</title>
   <link rel="stylesheet" href="sobre.css">
+  <link rel="stylesheet" href="styles.css">
 
 
   <link href="assets/vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
@@ -59,7 +60,7 @@
   <main>
     <section id="sobre">
       <h2>Sobre</h2>
-      <p>Bem-vindo à nossa loja online de desenhos. Aqui você encontrará uma variedade de desenhos originais disponíveis
+      <p >Bem-vindo à nossa loja online de desenhos. Aqui você encontrará uma variedade de desenhos originais disponíveis
         para compra. Nossos artistas talentosos criam obras de arte únicas que certamente encantarão você.</p>
 
     </section>
@@ -75,11 +76,11 @@
 
         <div class="titulo text-center">
           <h2>Sobre a Jojovana.</h2>
-          <p>Um pouco sobre a Empresa.</p>
+          <p>Um pouco sobre a Empresa</p>
         </div>
 
         <div class="row gy-4">
-          <div class="col-lg-7 position-relative about-img" style="background-image: url(assets/img/cc.jpg) ;"
+          <div class="col-lg-7 position-relative about-img" style="background-image: url(assets/img/sobre/cc.jpg) ;"
             data-aos="fade-up" data-aos-delay="150">
 
           </div>
@@ -111,7 +112,7 @@
               </p>
 
               <div class="position-relative mt-4">
-                <img src="assets/img/aa.jpg" class="img-fluid" alt="">
+                <img src="assets/img/sobre/aa.jpg" class="img-fluid" alt="">
                 <a href="https://www.youtube.com/watch?v=LXb3EKWsInQ" class="glightbox play-btn"></a>
               </div>
             </div>
@@ -120,7 +121,140 @@
 
       </div>
     </section>
-  </main>
+
+
+    <!-- linhha -->
+    <div class="linha">s</div>
+
+
+<!-- produtos a mostra -->
+<main>
+<section id="produtos">
+
+<div class="titulo text-center">
+          <h2>Oque oferecemos</h2>
+          <p>Tipos de estilos artístico que temos em nossa loja!</p>
+        </div>
+
+
+    <div class="gallery">
+
+
+<main>
+  <div class="gallery">
+
+<!-- produto/ digital art-->
+
+        <div class="product">
+
+          <img src="./assets/img/sobre/digital.jpg " alt="Desenhos a oferecer">
+          <h3>Arte Digital</h3>
+          <p>Diversas manifestações artísticas realizadas por meio da ajuda dos meios eletrônicos</p>
+          <div class="cuzinho">
+            <span>*o preco varia de acordo com oque sera pedido*</span>
+
+          </div>
+        </div>
+
+
+ <!-- outro produto/ anime -->
+
+ <div class="product">
+
+<img src="./assets/img/sobre/anime.jpg " alt="Desenhos a oferecer">
+<h3>Arte em Mangá e Anime</h3>
+<p>Traz atrações que celebram a cultura nerd como um todo</p>
+<div class="cuzinho">
+  <span>*o preco varia de acordo com oque sera pedido*</span>
+
+</div>
+  </div>
+
+  <!-- outro produto/ realismo -->
+
+ <div class="product">
+
+<img src="./assets/img/sobre/realismo.jpg " alt="Desenhos a oferecer">
+<h3>Arte Realistica</h3>
+<p>um movimento artístico amplo que se apresenta contra os arroubos sentimentais e idealistas do Romantismo</p>
+<div class="cuzinho">
+  <span>*o preco varia de acordo com oque sera pedido/Acima de R$60,00*</span>
+
+</div>
+
+
+</main>
+
+
+
+<!-- outra coluna de desenhos -->
+
+ <div class="gallery">
+
+
+<!-- outro produto/ cartoon -->
+ <div class="product">
+
+<img src="./assets/img/sobre/cartoon.jpg " alt="Desenhos a oferecer">
+<h3>Arte em Cartoon</h3>
+
+<p>uma imagem ou série de imagens destinadas a sátira, 
+  caricatura ou humor; ou um filme que se baseia em uma sequência de ilustrações para sua animação.</p>
+
+<div class="cuzinho">
+  <span>*o preco varia de acordo com oque sera pedido*</span>
+
+</div>
+</div>
+
+<!-- outro produto/ oc -->
+<div class="product">
+
+<img src="./assets/img/sobre/oc.jpg " alt="Desenhos a oferecer">
+<h3>Oc's</h3>
+
+<p>Original Caracter é um personagem original feito pela pessoa, ou seja, não é um fanart</p>
+
+<div class="cuzinho">
+  <span>*o preco varia de acordo com oque sera pedido*</span>
+
+</div>
+  </div>
+
+  <!-- outro produto/ hq -->
+<div class="product">
+
+<img src="./assets/img/sobre/hq.jpg " alt="Desenhos a oferecer">
+<h3>Hq's</h3>
+
+<p>nome dado à arte de narrar histórias através de desenhos e textos em sequência, normalmente na horizontal.</p>
+
+<div class="cuzinho">
+  <span>*o preco varia de acordo com oque sera pedido/Acima de R$60,00*</span>
+
+</div>
+  </div>
+
+
+
+  </div>
+
+
+
+
+
+ </div>
+
+</main>
+</main>
+
+
+
+
+
+
+
+<!-- seta pra subir -->
   <a id="scroll-to-top" class="scroll-to-top" href="#header">↑</a>
 
 

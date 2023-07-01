@@ -73,6 +73,9 @@ h2 {
     color: #333;
 }
 
+
+/* produtinhos */
+
 .gallery {
   display: flex;
   flex-wrap: wrap;
@@ -91,6 +94,7 @@ h2 {
       text-align: center;
   
 }
+
 
 .product img {
     width: 100%;
@@ -140,6 +144,19 @@ h2 {
   background-color: #555;
   border-radius: 20%;
 }
+
+
+.gallery {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+
+.product {
+  margin: 10px;
+}
+
+
 
 /* s */
 .linha{
@@ -340,16 +357,6 @@ font-size: 17px;
     font-weight: bold;
   } */
 
-
-  .gallery {
-    display: flex;
-    justify-content: center;
-    flex-wrap: wrap;
-  }
-
-  .product {
-    margin: 10px;
-  }
 
 /* botao */
 .scroll-to-top {
